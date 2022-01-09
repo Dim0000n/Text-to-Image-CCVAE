@@ -1,7 +1,7 @@
-# Text-to-Image-CNN-CVAE
+# Text-to-Image-CCVAE
 Training NN-models to transit text to handwriten characters via EMNIST dataset
 
-In this work, I glad to introduce convolutional conditional variational autoencoder for you. It can transit text to image with handwriten characters. Models were training on EMNIST dataset (link: https://www.nist.gov/itl/products-and-services/emnist-dataset).
+In this work, I glad to introduce convolutional conditional variational autoencoder (CCVAE) for you. It can transit text to image with handwriten characters. Models were training on EMNIST dataset (link: https://www.nist.gov/itl/products-and-services/emnist-dataset).
 
 The Jupiter Page has 9 section:
 
